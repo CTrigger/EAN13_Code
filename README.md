@@ -1,6 +1,7 @@
 # EAN13_Code
 Code Bar Generator
-Need install EAN-13.ttf located in the folder EAN13_Code/EAN13 Code/Fonts<br/><br/>
+Need install EAN-13.ttf located in the folder EAN13_Code/EAN13 Code/Fonts
+<hr/>
 
 Project made in <b>Visual Studio 2013</b>.<br/>
 
