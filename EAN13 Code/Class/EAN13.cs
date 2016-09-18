@@ -109,7 +109,7 @@ namespace EAN13_Code.Class
 
                     if (i == 4)
                     {
-                        if (FinalEAN[i] == '0' || FinalEAN[i] == '1'|| FinalEAN[i] == '4' || FinalEAN[i] == '5' || FinalEAN[i] == '9')
+                        if (FinalEAN[i] == '0' || FinalEAN[i] == '1' || FinalEAN[i] == '3' || FinalEAN[i] == '4' || FinalEAN[i] == '5' || FinalEAN[i] == '9')
                         {
                             Code[i] = L[(int)Char.GetNumericValue(FinalEAN[i])];
                             group = group + "L";

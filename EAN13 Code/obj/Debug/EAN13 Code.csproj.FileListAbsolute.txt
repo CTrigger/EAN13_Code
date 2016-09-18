@@ -8,3 +8,13 @@ D:\wGit\EAN13 Code\EAN13 Code\bin\Debug\EAN13 Code.exe.manifest
 D:\wGit\EAN13 Code\EAN13 Code\bin\Debug\EAN13 Code.application
 D:\wGit\EAN13 Code\EAN13 Code\obj\Debug\EAN13 Code.exe.manifest
 D:\wGit\EAN13 Code\EAN13 Code\obj\Debug\EAN13 Code.application
+D:\wGit\EAN13_Code\EAN13 Code\bin\Debug\EAN13 Code.exe.config
+D:\wGit\EAN13_Code\EAN13 Code\obj\Debug\EAN13 Code.exe
+D:\wGit\EAN13_Code\EAN13 Code\obj\Debug\EAN13 Code.pdb
+D:\wGit\EAN13_Code\EAN13 Code\bin\Debug\EAN13 Code.exe.manifest
+D:\wGit\EAN13_Code\EAN13 Code\bin\Debug\EAN13 Code.application
+D:\wGit\EAN13_Code\EAN13 Code\bin\Debug\EAN13 Code.exe
+D:\wGit\EAN13_Code\EAN13 Code\bin\Debug\EAN13 Code.pdb
+D:\wGit\EAN13_Code\EAN13 Code\obj\Debug\EAN13 Code.csprojResolveAssemblyReference.cache
+D:\wGit\EAN13_Code\EAN13 Code\obj\Debug\EAN13 Code.exe.manifest
+D:\wGit\EAN13_Code\EAN13 Code\obj\Debug\EAN13 Code.application

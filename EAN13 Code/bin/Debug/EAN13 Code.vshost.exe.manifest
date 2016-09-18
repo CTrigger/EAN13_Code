@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RTQ4P+SCBlG9zzcb93cgcTFOH5x0jRWlcOlo6eKuiUs=</dsig:DigestValue>
+        <dsig:DigestValue>EbdfrGdYURgk1L3+otDryl7WvP1/BwFIV2tGEfIDzd8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -60,6 +60,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Fonts\EAN-13.svg" size="236079">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8RvdMbcnEzb9CBNZ8sv3UGkm4pvTlyMD3lSP0g85kOc=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
